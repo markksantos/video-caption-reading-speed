@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Caption Reading Speed Study: 387 Videos Measured"
+type: dataset
+authors:
+  - name: "Mark Studios"
+    website: "https://www.markstudios.com"
+url: "https://www.markstudios.com/research/caption-reading-speed-study"
+license: CC-BY-4.0
+date-released: "2026-10-25"
+keywords:
+  - captions
+  - subtitles
+  - reading speed
+  - accessibility
+  - video
